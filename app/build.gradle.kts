@@ -65,7 +65,7 @@ dependencies {
     implementation("com.journeyapps:zxing-android-embedded:4.3.0"){ isTransitive = false }
     implementation("com.google.zxing:core:3.5.2")
     implementation("com.github.suitetecsa:suitetecsa-sdk-kotlin:0.1.9")
-    implementation("com.airbnb.android:lottie:6.1.0")
+    implementation("com.airbnb.android:lottie:6.3.0")
     implementation("com.github.applifycu:bugsend:1.0.4-alpha3")
     implementation("com.github.applifycu:nautaclear:1.0.0-alpha2")
     implementation("de.hdodenhof:circleimageview:3.1.0")
